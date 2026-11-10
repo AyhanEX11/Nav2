@@ -1,0 +1,14 @@
+# ROS 2 / colcon derleme çıktıları
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / sistem
+.vscode/
+.idea/
+*.swp
+.DS_Store
